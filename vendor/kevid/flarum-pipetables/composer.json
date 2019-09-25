@@ -1,0 +1,39 @@
+{
+  "name": "kevid/flarum-pipetables",
+  "description": "Active markdown tables.",
+  "keywords": [
+    "flarum",
+    "markdown",
+    "table",
+    "typography"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "authors": [
+    {
+      "name": "Kevin PAULMIER",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "KevID\\FlarumPipetables\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Markdown Tables",
+      "icon": {
+        "name": "fas fa-table",
+        "backgroundColor": "#4687a7",
+        "color": "#fff"
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
