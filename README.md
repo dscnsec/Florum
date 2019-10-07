@@ -57,5 +57,5 @@ Click [here](https://tiny.cc/dscnsec-slack).
 Please submit your proposal till the 14th of October.
 
 ## Mentors
-* [Sharad Baid]()
+* [Sharad Baid](https://dscnsec.slack.com/team/DG29YHL12)
 * [Rahul Gupta](https://dscnsec.slack.com/team/UNXDK7GD7)
