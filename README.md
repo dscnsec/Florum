@@ -1,3 +1,4 @@
+<p align="center"><img src="poster_forum_api.jpeg"></p>
 <p align="center"><img src="https://flarum.org/img/logo.png"></p>
 
 <p align="center">
@@ -43,3 +44,19 @@ If you discover a security vulnerability within Flarum, please send an e-mail to
 
 Flarum is open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
 
+
+## Our Job
+HELLO Developers!!!
+	Our work for this project is to develop rest API. 
+  Most of you know about application program interface (API) which is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact. 
+Whereas, REST technology is generally preferred to the more robust Simple Object Access Protocol (SOAP) technology because REST leverages less bandwidth, making it more suitable for internet usage.
+
+
+## Slack Workspace
+Click [here](https://tiny.cc/dscnsec-slack).
+
+Please submit your proposal till the 14th of October.
+
+## Mentors
+* [Sharad Baid](https://dscnsec.slack.com/team/DG29YHL12)
+* [Rahul Gupta](https://dscnsec.slack.com/team/UNXDK7GD7)
